@@ -1,4 +1,4 @@
-# Author                 :  Nikita Maliya
+# Author                 :  Mohammad Noor Ul hasan
 # Start Date             :  13/Feb/19
 
 # Dependencies(Modules ) :  keras 
